@@ -122,9 +122,10 @@ but it will helps tremendously.
 #### Here is a suggestion for kitchen:
 - don't leave pots and frying pans on the stove after cooking is finished
 - don't leave mess, dishes or kitchenware on the kitchen table
-- scrub leftovers to the trash before putting anything into sink
+- scrub leftovers to the trash before putting anything into the sink
 - do your dishes in short time and before it reaches half deepth of the
 sink
+
 Alternatively:
 - use your own kitchenware and leave it in your room
 
