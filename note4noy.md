@@ -78,10 +78,10 @@ me and not using it like other things I listed.
 Using kettle and wather filter is ok by now.
 
 Sorting this out includes:
-1. complete compensation of caused damages (which is 700 shekels, because it
+  1. complete compensation of caused damages (which is 700 shekels, because it
 includes 160 for our current stove, already damaged, and not the one I bougth
 for the owner - I'll have to compensate him also)
-2. reading operation manual for the thing you like to use, and explaining to me
+  2. reading operation manual for the thing you like to use, and explaining to me
 what you make of it
 
 Also be advised of two important things:
