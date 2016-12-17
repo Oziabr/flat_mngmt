@@ -75,12 +75,20 @@ stuff. That includes washer, stove, frying pan and knife. Also you either
 giving me 30 shekels and using the pot as your own, or taking same 30 from
 me and not using it like other things I listed.
 
+Using kettle and wather filter is ok by now.
+
 Sorting this out includes:
 1. complete compensation of caused damages (which is 700 shekels, because it
 includes 160 for our current stove, already damaged, and not the one I bougth
 for the owner - I'll have to compensate him also)
 2. reading operation manual for the thing you like to use, and explaining to me
 what you make of it
+
+Also be advised of two important things:
+- turning on air-conditioner while outside temperature lower than +8C may
+damage it
+- when temperature hits 0C boiler have to be working and wather dripping
+somewere. otherwise boiler or tubes can be destroyed by ice
 
 ### avoiding situations which may put at risk well-being and lives of other
 
