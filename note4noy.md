@@ -34,8 +34,7 @@ place.
 This is also about respecting your peers. That being said, if your current
 arrangement gets in the way of acting responsibly - you are not excused. And
 should choose between keeping the arrangement, or your flatmates. Every
-adult person facing the same challenges and dealing with it. Except for
-mentally ill, who does't suppose to live in shared flats.
+adult person facing the same challenges and dealing with it.
 
 ### sharing fairly
 
